@@ -58,6 +58,14 @@ Node.js • Express • JavaScript • React • SQL • REST APIs • IoT
 
 ---
 
+## 🧩 Desafios e aprendizados
+
+- Aprendi a trabalhar com integração de APIs externas e tratamento de dados
+- Evoluí na organização de código backend e separação de responsabilidades
+- Tive experiência prática com desenvolvimento em equipe e divisão de tarefas
+
+---
+
 ## ⚙️ Como Executar o Projeto
 
 ### 1. Clonar o repositório
