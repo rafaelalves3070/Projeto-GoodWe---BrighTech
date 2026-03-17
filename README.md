@@ -42,13 +42,13 @@ Usuário → Frontend → Backend → Banco de Dados / APIs externas
 
 ---
 
-## 👨‍💻 Minha Contribuição
+## 👨‍💻 Minha contribuição
 
-- Desenvolvimento Back-End
-- Integração de APIs externas
-- Modelagem de dados
-- Implementação de regras de negócio
-- Criação de endpoints REST
+- Desenvolvimento de funcionalidades backend para gerenciamento e automação de dispositivos
+- Implementação da integração com API externa (GoodWe) para coleta de dados em tempo real
+- Modelagem de dados para representar dispositivos e consumo energético
+- Criação de endpoints REST para comunicação com o sistema
+- Implementação de regras de negócio para automação de rotinas inteligentes
 
 ---
 
